@@ -1,0 +1,6 @@
+2
+error
+warn
+2
+error
+warn
