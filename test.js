@@ -1,7 +1,7 @@
 ///**
 // * Created by maoerbaby on 15/8/19.
 // */
-//var module = require('module');
+//var test = require('test');
 //exports.name= 'hellojs';
 
 exports.add= function (a,b) {
